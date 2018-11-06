@@ -7,49 +7,29 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+You will need to have the Unity engine in order to run this program.
 
 ```
-Give examples
+Windows and Mac:
+https://unity3d.com/get-unity/download
+
+Linux:
+https://forum.unity.com/threads/unity-on-linux-release-notes-and-known-issues.350256/page-2
 ```
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+Once Unity has been downloaded, follow the instructions to install it to your machine.
+Then clone this repository into a desired location. Following this, open Unity and open a project in it, specifying the folder you downloaded this repository to.
+To run the program, once it is open, hit the play button at the top. This will start the simulation for rolling your die. To actualy roll the die, simply click with your mouse.
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
 
 End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+Travis will be used to automatically check the code, mainly C#, to see if it is linted and formatted correctly.
 
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ## Deployment
 
@@ -59,21 +39,11 @@ Add additional notes about how to deploy this on a live system
 
 * [Unity](https://forum.unity.com/threads/unity-on-linux-release-notes-and-known-issues.350256/page-2)
 
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
 ## Authors
 
 * **Simon Burrows** - *Initial work* - [Simon Burrows](https://github.com/burrowss)
+* **JayDesigns3D** - *3D Modeling for the Dice** -[JayDesigns3D](https://sketchfab.com/models/163950cff9694fe1a686d22fe7737236)
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
