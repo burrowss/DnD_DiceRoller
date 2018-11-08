@@ -42,6 +42,7 @@ Add additional notes about how to deploy this on a live system
 ## Authors
 
 * **Simon Burrows** - *Initial work* - [Simon Burrows](https://github.com/burrowss)
+* **JayDesigns3D** - *3D Modeling for the Dice* -[JayDesigns3D](https://sketchfab.com/models/163950cff9694fe1a686d22fe7737236)
 
 ## License
 
