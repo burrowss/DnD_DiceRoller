@@ -44,6 +44,12 @@ ModelImporter:
     4300006: d12
     4300008: d20
     4300010: d10
+    6400000: Cone
+    6400002: d10
+    6400004: d12
+    6400006: d20
+    6400008: d6
+    6400010: d8
     10800000: Lamp
     2186277476908879412: ImportLogs
   externalObjects:
@@ -58,7 +64,7 @@ ModelImporter:
       name: Numbers
     second: {fileID: 2100000, guid: 210eed9cbbf0c4fc585beaff07e06ac3, type: 2}
   materials:
-    importMaterials: 1
+    importMaterials: 0
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -88,8 +94,8 @@ ModelImporter:
   meshes:
     lODScreenPercentages: []
     globalScale: 1
-    meshCompression: 0
-    addColliders: 0
+    meshCompression: 2
+    addColliders: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
