@@ -1,1 +1,10 @@
 language: csharp
+
+# install mdl for checking Markdown
+before_install:
+  - gem install mdl
+notifications:
+  email: never
+  
+script:
+  - mdl README.md
